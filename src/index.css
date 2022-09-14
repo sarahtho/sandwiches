@@ -1,13 +1,194 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+#title-theme{
+  color:white;
+  background-image:url(https://img.freepik.com/premium-photo/tasty-fresh-sandwiches-dark-wooden-table_78677-2345.jpg?w=2000);
+  padding-left: 150px;
+  padding-right: 0px;
+  padding-top: 150px;
+  padding-bottom: 500px;
+  background-size: cover;
 }
+#order-now{
+  background-color:white;
+  color:#34704a;
+}
+#ss-learn{
+  color: white;
+  background-color:#022520;
+  border-color: gold;
+  width:500px;
+}
+#product-title{
+  color: white;
+  text-align: center;
+}
+.product-image{
+  display: flex;
+  justify-content: center;
+  color: goldenrod;
+  align-content: space-between;
+}
+.product-image2{
+  display: flex;
+  justify-content: center;
+  color: goldenrod;
+}
+#p1{
+  color: #7DA1A5;
+  text-align: center;
+}
+#amiibo{
+  display: flex;
+  justify-content: center;
+}
+#featured-amiibo{
+  color: white;
+  text-align: center;
+  border: goldenrod;
+}
+#view-amiibo{
+  color: white;
+  background-color:#022520;
+  border-color: gold;
+  width:500px;
+}
+.champions{
+  height: 225px;
+  width: 225px;
+}
+#ads{
+  color: white;
+  text-align: right;
+  padding-left: 100px;
+  padding-right: 800px;
+  background-image: url(https://www.zelda.com/assets/img/about/zelda_play.png);
+  background-size: 100%;
+}
+#facebook-follow{
+  color: white;
+  padding: 150px;
+}
+#title-theme2{
+  color: white;
+  background-image:url(https://static0.gamerantimages.com/wordpress/wp-content/uploads/2021/06/zelda-poster-leak-bundle-announcement-rumor.jpg?q=50&fit=contain&w=960&h=500&dpr=1.5);
+  padding-left: 670px;
+  padding-right: 500px;
+  padding-top: 250px;
+  padding-top: 250px;
+}
+#the-creation{
+  background-image: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/1b28072d-1001-4db1-8a05-b20eb624596f/dbplf7z-a302bf15-e2d4-4f7c-aa4b-fc58a412b90c.png/v1/fill/w_1192,h_670,strp/the_legend_of_zelda_triforce_hyrule_historia_by_elizflo_dbplf7z-pre.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcLzFiMjgwNzJkLTEwMDEtNGRiMS04YTA1LWIyMGViNjI0NTk2ZlwvZGJwbGY3ei1hMzAyYmYxNS1lMmQ0LTRmN2MtYWE0Yi1mYzU4YTQxMmI5MGMucG5nIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.YoxAroQBRQoaCfTs09bGoCvGE-LEeQ5YxRAG-ieQREU);
+  color: white;
+}
+#triforce{
+  color: white;
+  text-align: center;
+}
+.ad{
+  opacity: 0.5;
+}
+#info{
+  display: flex;
+  justify-content: center;
+}
+#history{
+  text-align: center;
+  color: white;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+}
+.m-top{
+  margin-top: 200px;
+}
+#games{
+ display: flex;
+ justify-content: center;
+ justify-content: space-evenly;
+}
+#characters1{
+  display: flex;
+  justify-content: center;
+}
+#characters2{
+  display: flex;
+  justify-content: center;
+}
+#characters3{
+  display: flex;
+  justify-content: center;
+}
+#glossary{
+  color: white;
+  text-align: center;
+}
+#news{
+  color: white;
+  padding: 250px;
+  background-image:url(https://zelda.com/assets/img/news/link-hero.png);
+  background-repeat: repeat-y;
+  background-position: 70% 30%;
+}
+.news-img{
+  height: 150px;
+  text-align: center;
+}
+#button1{
+  color:#f1fbbd;
+  background-color:#34704a;
+}
+#last-item{
+  border: solid 1px rgb(232, 232, 232);
+  width: 382px;
+}
+#background1{
+  background-image:url(https://sp-ao.shortpixel.ai/client/to_webp,q_glossy,ret_img,w_1536,h_1024/https://lavu.com/wp-content/uploads/2019/06/Kitchen-Display-System-Header-Image.jpg);
+  height: 800px;
+  width: 100%;
+}
+#about-us{
+  display: flex;
+  width: 100%;
+  height: 700px;
+}
+#about-us-sandwich2{
+  width:100%;
+  background-color:#f1fbbd;
+  text-align: right;
+  padding-top:200px;
+}
+#about-us-sandwich{
+  flex-basis:1500px;
+  padding-top: 300px;
+  padding-left: 150px;
+}
+#about-us-deliver{
+  width:100%;
+  background-color:#34704a;
+  padding-top:200px;
+}
+#about-us-deliver2{
+  padding-top: 300px;
+  padding-left: 150px;
+  flex-basis: 1250px;
+}
+#client-reviews{
+  display: flex;
+  justify-content: center;
+  justify-content:space-between;
+  padding: 100px;
+}
+#reviews{
+  text-align: center;
+  color:#34704a;
+}
+#sideway-sandwiche{
+  background-image:url(https://www.subway.co.id/wp-content/uploads/2021/08/chicken-teriyaki-front-e1633678475910-680x680.png);
+  padding: 250px;
+}
+#contact-info{
+  display: flex;
+  justify-content: center;
+  justify-content: space-evenly;
+}
+#contact-us{
+  text-align: center;
+  background-color:#f1fbbd;
 }
