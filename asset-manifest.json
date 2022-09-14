@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sandwiches/static/css/main.e98c9c6b.css",
+    "main.js": "/sandwiches/static/js/main.f648c3eb.js",
+    "index.html": "/sandwiches/index.html",
+    "main.e98c9c6b.css.map": "/sandwiches/static/css/main.e98c9c6b.css.map",
+    "main.f648c3eb.js.map": "/sandwiches/static/js/main.f648c3eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e98c9c6b.css",
+    "static/js/main.f648c3eb.js"
+  ]
+}
